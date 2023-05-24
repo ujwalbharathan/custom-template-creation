@@ -1,0 +1,8 @@
+.components-container {
+  .components-trash-button {
+    &:hover {
+      background-color: rgb(100, 6, 6);
+      color: rgb(234, 229, 229);
+    }
+  }
+}
